@@ -2,13 +2,8 @@
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-body{
-  background-color: #29d4f2;
-=======
 body {
     background-color: #00c8cb;
->>>>>>> 1d91381 (This is some minor changes!)
 }
 .container {
     display: grid;
@@ -16,20 +11,6 @@ body {
     height: 100vh;
 }
 #clock {
-<<<<<<< HEAD
-  display: grid;
-    place-items: center;
-    height: 100vh;
-    border: none;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-  /*  padding: 12vh; */
-    height: 28vh;
-    width: 86vw;
-    font-size: 2rem;
-    font-family: "Edu SA Hand", cursive;
-    border-radius: 3vh;
-    background-color: #abe1eb;
-=======
     display: grid;
     place-items: center;
     height: 100vh;
@@ -42,5 +23,4 @@ body {
     font-family: "Roboto", sans-serif;
     border-radius: 3vh;
     background-color: rgba(255, 255, 255, 0.4);
->>>>>>> 1d91381 (This is some minor changes!)
 }
