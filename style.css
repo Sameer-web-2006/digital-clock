@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background-color: #beecf1d2;
+  background: linear-gradient(290deg, #ffd9d9, #d9fffb);
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -27,8 +27,8 @@ body {
   font-family: "Roboto", sans-serif;
   border-radius: 3vh;
   margin: 20px;
-  color: white;
-  background-color: rgba(80, 80, 80, 0.8);
+  color: black;
+  background-color: rgba(200, 200, 200, 0.4);
 }
 @media(min-width: 500px) {
   #date, #clock, #today {
