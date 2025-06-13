@@ -27,7 +27,7 @@ body {
   font-family: "Roboto", sans-serif;
   border-radius: 3vh;
   margin: 20px;
-  color: #ffd9d9;
+  color: white;
   background-color: rgba(80, 80, 80, 0.8);
 }
 @media(min-width: 500px) {
